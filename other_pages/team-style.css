@@ -1,0 +1,102 @@
+.main {
+    background-color: lightslategray;
+    height: 100%;
+    width: 100%;
+}
+
+.header {
+    height: 140px;
+    background-image: linear-gradient(to right, #0084f7, purple);
+    margin: 0px;
+}
+
+.logo {
+    height:115px;
+    width: auto;
+    margin: 15px;
+    margin-left: 30px;
+}
+
+.tab {
+    display: inline;
+    width: 130px;
+    text-align: center;
+    padding: 10px;
+    border: 5px;
+    border-radius: 12px;
+    font-size: 30px;
+    float: right;
+    margin-right: 15px;
+    margin-top:  50px;
+    color: black;
+    text-decoration: none;
+}
+
+.tab:hover {
+    background-color: #5f0575;
+    font-weight: 700;
+}
+
+.top-image {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.homepage-container {
+    display: block;
+    margin: auto;
+    height: 1500px;
+    width: 60%;
+}
+
+.member-box {
+    display: block;
+    height: 250px;
+    width:100%;
+    background-color: rgb(160, 155, 155);
+    border-radius: 20px;
+    margin-top: 8px;
+}
+
+.portrait {
+    display: inline-block;
+    height: 160px;
+    width: auto;
+    margin-top: 32px;
+    margin-left: 30px;
+    border: 8px solid rgb(100, 1, 1);
+    border-radius: 15px;
+}
+
+.member-description {
+    display: inline-block;
+    vertical-align: top;
+    height: 100%;
+    width:75%;
+    padding-left: 35px;
+    padding-top:10px;
+}
+
+h3 {
+    display: inline-block;
+    width: 60%;
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+h5 {
+    display: inline-block;
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    margin: 0px;
+}
+
+.member-bio {
+    display: block;
+    border-top: 2px solid black;
+    height: 160px;
+    width: 95%;
+    margin: 0px;
+}
