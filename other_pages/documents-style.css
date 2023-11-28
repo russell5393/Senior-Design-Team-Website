@@ -48,19 +48,13 @@
     margin: auto;
     border-left: 6px solid #5f0575;
     border-right: 6px solid #5f0575;
-    height: 1500px;
+    height: 800px;
     width: 60%;
 }
 
-.pointless-note {
-    margin: 15px;
-    font-size: 34px;
-    text-align: center;
-}
-.memes {
-    display: inline-block;
-    text-align: center;
-    margin: auto;
-    width: 500px;
-    margin-bottom: 10px;
+li {
+    font-size: 36px;
+    margin: 25px;
+    text-decoration: none;
+    color: black;
 }
